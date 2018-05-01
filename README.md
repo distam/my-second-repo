@@ -1,29 +1,30 @@
-# This is a large heading
+# St Dimi
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in *many* places and none at the same time. 
+My body usually resides in the University were I study,
+while my mind flies off to various places that exist or don't.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+I like reading about Chemistry and Computers, two of the Man's 
+greatest tools to transform the world around him.
 
-Here is `some code` in the middle of a sentence.
+Currently, I read:
 
-```
-This is
-a block
-of code
-```
+-**Introduction to Spectroscopy** by D. Pavia, G. Lampman, G. Kriz, and J. Vyvyan
+-**Physical Chemstry** by P. Atkins and J. de Paula
+-**Count Zero** by William Gibson
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Food
+I only eat things which are edible. For example:
+ 
+1. Hydrocarbons
+2. Proteins
+3. Lipids
+4. Biodegradable plastic
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contact
 
+The most efficient way to get in contact with me is by touching [me](https://en.wikipedia.org/wiki/Me)
